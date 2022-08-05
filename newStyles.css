@@ -21,14 +21,15 @@ body {
 .container {
 
     padding: 0rem 1rem;
-
+    
 }
 
 .container-center {
 
     max-width: 600px;
     margin: auto;
-    padding-top: 1rem;
+    padding-top: 2rem;
+
    
 
 }
@@ -41,7 +42,22 @@ body {
     padding-top: 1rem;
 }
 
-.margin-md{
+.footer{
 
-    margin: 2rem;
+    background-color: var(--primary-color);
+    padding:2rem 1rem;
+    text-align: center;
+    color: black;
+    margin:auto;
+    
+ 
+ 
+ }
+
+ .footer .footer-header{
+
+    font-weight: bold;
+    font-size: large;
+
 }
+
