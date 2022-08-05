@@ -28,7 +28,8 @@ body {
 
     max-width: 600px;
     margin: auto;
-    padding: 2rem;
+    padding-top: 1rem;
+   
 
 }
 
@@ -37,7 +38,7 @@ body {
     background-color: var(--primary-color);
     color: black;
     text-align: center;
-    padding: 1rem;
+    padding-top: 1rem;
 }
 
 .margin-md{
