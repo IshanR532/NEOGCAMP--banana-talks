@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Shadows+Into+Light&display=swap');
+
+:root {
+    --primary-color: #F2C94C;
+    --black: #333333;
+    --width-break: 600px;
+}
+
+link {
+    display: none;
+}
+
+body {
+
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0px;
+    color: #333333;
+
+}
+
+.container {
+
+    padding: 0rem 1rem;
+
+}
+
+.container-center {
+
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+
+}
+
+.navigation {
+
+    background-color: var(--primary-color);
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
+
+.margin-md{
+
+    margin: 2rem;
+}
