@@ -6,9 +6,7 @@
     --width-break: 600px;
 }
 
-link {
-    display: none;
-}
+
 
 body {
 
@@ -50,6 +48,7 @@ body {
     text-align: center;
     color: black;
     margin:auto;
+    
  
  }
 
