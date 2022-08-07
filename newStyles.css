@@ -27,6 +27,7 @@ body {
     max-width: 600px;
     margin: auto;
     padding-top: 1rem;
+    
 
    
 
@@ -56,6 +57,12 @@ body {
 
     font-weight: bold;
     font-size: large;
+
+}
+
+.outputdisplaytext{
+
+    font-weight: bold;
 
 }
 
